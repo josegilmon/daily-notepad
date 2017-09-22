@@ -11,12 +11,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/josegilmon/my-notepad.git"
+    "url": "git+https://github.com/josegilmon/daily-notepad.git"
   },
   "author": "Jose Antonio Gil",
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/josegilmon/my-notepad/issues"
+    "url": "https://github.com/josegilmon/daily-notepad/issues"
   },
-  "homepage": "https://github.com/josegilmon/my-notepad#readme"
+  "homepage": "https://github.com/josegilmon/daily-notepad#readme"
 }
