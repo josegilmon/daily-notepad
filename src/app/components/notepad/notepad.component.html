@@ -1,0 +1,9 @@
+<div>
+  <div>
+    <!--ngb-datepicker #dp [(ngModel)]="model" (navigate)="date = $event.next"></ngb-datepicker--> 
+    <app-date-list [(date)]="date"></app-date-list>
+  </div>
+  <div>
+    <app-text-field [date]="date"></app-text-field>
+  </div>
+</div>
